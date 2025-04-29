@@ -13,3 +13,6 @@ Includes a mobile-friendly hamburger menu 🍔, smooth animations 🎨, and dyna
 * 🧱 HTML5
 * 🎨 CSS3 (with transitions)
 * 🧠 JavaScript (DOM manipulation, forEach & events)
+
+  ## 📷 Preview:
+![Card Slider Preview](./Assets/screenshot.png)
