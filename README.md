@@ -15,4 +15,4 @@ Includes a mobile-friendly hamburger menu 🍔, smooth animations 🎨, and dyna
 * 🧠 JavaScript (DOM manipulation, forEach & events)
 
   ## 📷 Preview:
-![Card Slider Preview](./Assets/screenshot.png)
+![Card Slider Preview](./screenshot1.png)
