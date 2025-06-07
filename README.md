@@ -16,3 +16,4 @@ Includes a mobile-friendly hamburger menu 🍔, smooth animations 🎨, and dyna
 
   ## 📷 Preview:
 ![Card Slider Preview](./screenshot1.png)
+![Card Slider Preview](./screenshot2.png)
