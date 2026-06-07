@@ -12,7 +12,7 @@ Includes a mobile-friendly hamburger menu 🍔, smooth animations 🎨, and dyna
 ## 📂 Tech Stack
 * 🧱 HTML5
 * 🎨 CSS3 (with transitions)
-* 🧠 JavaScript (DOM manipulation, forEach & events)
+* 🧠 JavaScript (DOM manipulation, forEach and events)
 
   ## 📷 Preview:
 ![Card Slider Preview](./screenshot1.png)
